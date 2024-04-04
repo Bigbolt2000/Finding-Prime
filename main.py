@@ -1,3 +1,4 @@
+# Find prime numbers
 number = [1,2]
 prime_num = []
 for e in range(1, 25):
